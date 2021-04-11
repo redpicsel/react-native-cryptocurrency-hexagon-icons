@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100" height="100" x="0" y="0" viewBox="0 0 483.013 483.013" xml:space="preserve">
+	<defs>
+		<linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+			<stop offset="0%" style="stop-color:#627eea;stop-opacity:1" />
+			<stop offset="100%" style="stop-color:#91a4f0;stop-opacity:1" />
+		</linearGradient>
+	</defs>
+	<g transform="matrix(6.123233995736766e-17,-1,1,6.123233995736766e-17,-0.0003676414490030311,483.01362466812134)">
+		<path d="M477.043,219.205L378.575,48.677c-7.974-13.802-22.683-22.292-38.607-22.292H143.041c-15.923,0-30.628,8.49-38.608,22.292  L5.971,219.205c-7.961,13.801-7.961,30.785,0,44.588l98.462,170.543c7.98,13.802,22.685,22.293,38.608,22.293h196.926  c15.925,0,30.634-8.491,38.607-22.293l98.469-170.543C485.003,249.99,485.003,233.006,477.043,219.205z" fill="url(#grad1)" data-original="#000000" style="" class="" />
+	</g>
+	<g transform="scale(11) translate(6 6)">
+		<g fill="#FFF" fill-rule="nonzero">
+			<path fill-opacity=".602" d="M16.498 4v8.87l7.497 3.35z" />
+			<path d="M16.498 4L9 16.22l7.498-3.35z" />
+			<path fill-opacity=".602" d="M16.498 21.968v6.027L24 17.616z" />
+			<path d="M16.498 27.995v-6.028L9 17.616z" />
+			<path fill-opacity=".2" d="M16.498 20.573l7.497-4.353-7.497-3.348z" />
+			<path fill-opacity=".602" d="M9 16.22l7.498 4.353v-7.701z" />
+		</g>
+	</g>
+</svg>

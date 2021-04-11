@@ -1,0 +1,37 @@
+{
+  "name": "react-native-cryptocurrency-hexagon-icons",
+  "version": "1.0.0",
+  "description": "React Native component that displays an icon for a given cryptocurrency symbol.",
+  "main": "lib/index.js",
+  "scripts": {
+    "clear-icons": "rm -f src/icons/*",
+    "build": "npm run svg-to-react && npm run build:js",
+    "build:js": "babel src --out-dir lib",
+    "prepublish": "npm run build",
+    "prettify": "yarn prettier --write \"./src/*.js\"",
+    "svg-originals": "svgr --config-file originals-svgr.config.js -d ./src/icons ./assets/originals",
+    "svg-to-react": "npm run svg-originals && create-index ./src/icons"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-art": "*",
+    "react-dom": "*",
+    "react-native": "*",
+    "react-native-svg": "*",
+    "react-native-web": "*"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.4.4",
+    "@babel/core": "^7.4.5",
+    "@babel/plugin-proposal-object-rest-spread": "^7.4.4",
+    "@babel/preset-env": "^7.4.5",
+    "babel-loader": "^8.0.6",
+    "create-index": "^2.4.0",
+    "metro-react-native-babel-preset": "^0.59.0",
+    "prettier": "^2.0.1"
+  },
+  "dependencies": {
+    "@svgr/cli": "^4.3.0",
+    "react-primitives": "^0.8.1"
+  }
+}

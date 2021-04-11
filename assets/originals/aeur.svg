@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100" height="100" x="0" y="0" viewBox="0 0 483.013 483.013" xml:space="preserve">
+	<defs>
+		<linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+			<stop offset="0%" style="stop-color:#051d2d;stop-opacity:1" />
+			<stop offset="100%" style="stop-color:#126da9;stop-opacity:1" />
+		</linearGradient>
+	</defs>
+	<defs>
+		<linearGradient x1="50%" y1="0%" x2="50%" y2="143.239%" id="a">
+			<stop stop-color="#FFF" offset="0%" />
+			<stop stop-color="#FFF" stop-opacity=".83" offset="3%" />
+			<stop stop-color="#FFF" stop-opacity=".66" offset="7%" />
+			<stop stop-color="#FFF" stop-opacity=".5" offset="11%" />
+			<stop stop-color="#FFF" stop-opacity=".37" offset="15%" />
+			<stop stop-color="#FFF" stop-opacity=".25" offset="19%" />
+			<stop stop-color="#FFF" stop-opacity=".16" offset="25%" />
+			<stop stop-color="#FFF" stop-opacity=".09" offset="30%" />
+			<stop stop-color="#FFF" stop-opacity=".04" offset="37%" />
+			<stop stop-color="#FFF" stop-opacity=".01" offset="47%" />
+			<stop stop-color="#FFF" stop-opacity="0" offset="100%" />
+		</linearGradient>
+	</defs>
+	<g transform="matrix(6.123233995736766e-17,-1,1,6.123233995736766e-17,-0.0003676414490030311,483.01362466812134)">
+		<path d="M477.043,219.205L378.575,48.677c-7.974-13.802-22.683-22.292-38.607-22.292H143.041c-15.923,0-30.628,8.49-38.608,22.292  L5.971,219.205c-7.961,13.801-7.961,30.785,0,44.588l98.462,170.543c7.98,13.802,22.685,22.293,38.608,22.293h196.926  c15.925,0,30.634-8.491,38.607-22.293l98.469-170.543C485.003,249.99,485.003,233.006,477.043,219.205z" fill="url(#grad1)" data-original="#000000" style="" class="" />
+	</g>
+	<g transform="scale(11) translate(6 6)">
+		<g transform="translate(9 6)" fill="url(#a)">
+			<path d="M6.993 13.986a6.993 6.993 0 116.993-6.993 7.002 7.002 0 01-6.993 6.993zM7 6.951A.049.049 0 107.049 7a.055.055 0 00-.05-.05z" />
+			<path d="M6.993 20.986a6.993 6.993 0 116.993-6.993 7.002 7.002 0 01-6.993 6.993zM7 13.951a.049.049 0 10.049.049.055.055 0 00-.05-.05z" />
+		</g>
+	</g>
+</svg>
