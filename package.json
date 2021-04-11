@@ -33,5 +33,27 @@
   "dependencies": {
     "@svgr/cli": "^4.3.0",
     "react-primitives": "^0.8.1"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamlucnguyen/react-native-cryptocurrency-hexagon-icons.git"
+  },
+  "keywords": [
+    "react-native",
+    "react",
+    "cryptocurrency",
+    "icon",
+    "cryptocurrency-icon",
+    "crypto-icon",
+    "hexagon-icon"
+  ],
+  "author": "Lực Nguyễn <c.lyoko.jeremy@gmail.com> (https://github.com/iamlucnguyen)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamlucnguyen/react-native-cryptocurrency-hexagon-icons/issues"
+  },
+  "homepage": "https://github.com/iamlucnguyen/react-native-cryptocurrency-hexagon-icons#readme"
 }
