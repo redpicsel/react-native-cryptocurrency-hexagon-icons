@@ -38,16 +38,14 @@ Install the pod, then rebuild the app.
 
 ## Usage
 
-Start by importing the module
-
 ```js
 import CryptocurrencyIcon from "react-native-cryptocurrency-hexagon-icons"
 
 .........
 
 const App = () => {
-	return(
-		<CryptocurrencyIcon name="btc" size={48} />
-	)
+    return(
+        <CryptocurrencyIcon name="btc" size={48} />
+    )
 }
 ```
