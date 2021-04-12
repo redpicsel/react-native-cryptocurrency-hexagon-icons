@@ -1,3 +1,53 @@
-### react-native-cryptocurrency-hexagon-icons
+
+# react-native-cryptocurrency-hexagon-icons
+
+![Platform](https://img.shields.io/badge/platform-ios%20%7C%20android-green)
+[![NPM Badge](https://img.shields.io/npm/v/react-native-cryptocurrency-hexagon-icons)](https://www.npmjs.com/package/react-native-cryptocurrency-hexagon-icons)
 
 React Native component that displays an icon for a given cryptocurrency symbol.
+
+<p align="center" >
+  <img
+    src="https://github.com/iamlucnguyen/react-native-cryptocurrency-hexagon-icons/raw/master/assets/images/preview.png"
+    alt="Preview"
+  />
+</p>
+
+## Installation
+
+```
+$ npm install react-native-cryptocurrency-hexagon-icons
+```
+
+or
+
+```
+$ yarn add react-native-cryptocurrency-hexagon-icons
+```
+
+### Android
+
+Rebuild the app.
+
+### iOS
+
+Install the pod, then rebuild the app.
+
+`npx pod-install`
+
+
+## Usage
+
+Start by importing the module
+
+```js
+import CryptocurrencyIcon from "react-native-cryptocurrency-hexagon-icons"
+
+.........
+
+const App = () => {
+	return(
+		<CryptocurrencyIcon name="btc" size={48} />
+	)
+}
+```
