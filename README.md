@@ -2,7 +2,7 @@
 # react-native-cryptocurrency-hexagon-icons
 
 ![Platform](https://img.shields.io/badge/platform-ios%20%7C%20android-green)
-[![NPM Badge](https://img.shields.io/npm/v/react-native-cryptocurrency-hexagon-icons)](https://www.npmjs.com/package/react-native-cryptocurrency-hexagon-icons)
+[![NPM Badge](https://img.shields.io/npm/v/react-native-cryptocurrency-hexagon-icons)](https://badge.fury.io/js/react-native-cryptocurrency-hexagon-icons)
 
 React Native component that displays an icon for a given cryptocurrency symbol.
 
