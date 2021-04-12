@@ -38,7 +38,6 @@ const CryptocurrencyIcon = ({
 		<View {...circleProps} style={[sx.container, style]}>
 			<CryptocurrencyIconElement
 				{...circleProps}
-				{...shadowProps}
 				name={formattedName}
 				{...props}
 			/>
