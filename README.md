@@ -15,15 +15,18 @@ React Native component that displays an icon for a given cryptocurrency symbol.
 
 ## Installation
 
-```
-$ npm install react-native-cryptocurrency-hexagon-icons
-```
+1. Install [react-native-svg](https://github.com/react-native-svg/react-native-svg#installation) in the newest version. 
 
-or
+2.
+  ```
+  $ npm install react-native-cryptocurrency-hexagon-icons
+  ```
 
-```
-$ yarn add react-native-cryptocurrency-hexagon-icons
-```
+  or
+
+  ```
+  $ yarn add react-native-cryptocurrency-hexagon-icons
+  ```
 
 ### Android
 
